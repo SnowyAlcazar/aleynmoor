@@ -1,6 +1,6 @@
 ## Welcome to the Aleynmoor homepage!
 
-[ProjectAble](http://github.com/snowyalcazar/aleynmoor/projectable.md)
+## Products [ProjectAble](projectable.md)
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
