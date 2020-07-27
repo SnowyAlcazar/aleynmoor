@@ -1,6 +1,7 @@
 ## Welcome to the Aleynmoor homepage!
 
-<img src=1024.png height="75px" width="75px" style="float:right; padding-right:10px">
+<img style="float: right;" src="1024.png" height="100px" width="100px">
+<div style="clear: right">
 
 [ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) 
 
