@@ -1,8 +1,8 @@
 ## Welcome to the Aleynmoor homepage!
 
-[ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) <img style="float: right;" src="1024.png" height="100px" width="100px">
+<img style="float: right;" src="1024.png" height="100px" width="100px">
 <div style="clear: right">
-
+[ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) 
 
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
