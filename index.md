@@ -1,8 +1,7 @@
 ## Welcome to the Aleynmoor homepage!
 
 [ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) 
-![ProjectAble Logo](1024.png)
-Format: ![Alt: ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/1024.png){: height="75px" width="75px" style="float:right; padding-right:10px"}
+![ProjectAble Logo](1024.png){: height="75px" width="75px" style="float:right; padding-right:10px"}
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
