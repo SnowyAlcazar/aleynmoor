@@ -1,6 +1,6 @@
 ## Welcome to the Aleynmoor homepage!
 
-[ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) ![Alt: ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/1024.png){: height="250px" width="250px" align="right"}
+[ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/projectable.md) ![Alt: ProjectAble](https://github.com/SnowyAlcazar/aleynmoor/blob/master/1024.png){: height="150px" width="150px" style="float:right; padding-right:10px" }
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
