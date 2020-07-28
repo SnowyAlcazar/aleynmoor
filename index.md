@@ -2,7 +2,9 @@
 
 <img src="1024.png" height="150px" width="150px">
 
-# :+1: Welcome to ProjectAble Home Page :+1:
+:+1:
+# Welcome to ProjectAble Home Page 
+:+1:
 > A Helpful Status Reporting and Forecasting App for iPhone
 
 ## What is ProjectAble?
