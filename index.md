@@ -1,5 +1,3 @@
-## Welcome to the Aleynmoor homepage!
-
 <img style="float: right;" src="1024.png" height="150px" width="150px">
 
 # Welcome to ProjectAble Home Page 
