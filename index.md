@@ -39,8 +39,4 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
 
-You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 
