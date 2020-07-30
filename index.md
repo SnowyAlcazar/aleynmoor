@@ -21,8 +21,17 @@ A project is completed when the percent complete is set to 100% either with the 
 
 Calculation | Descriptive Method
 ------------|-------------------
-Planned Value (BCWS) | Percent Complete / * Budget At Complete (BAC - the original project budget)
+Planned Value (BCWS) | Percent Complete * Budget At Complete (original project budget)
 Earned Value (BCWP) | Actual Percent Complete * BAC
+Schedule Variance | EV - PV
+Schedule Performance Index | EV / PV
+Cost Variance | EV - AC (Actual cost to date)
+Cost Performance Index | EV / AC
+Estimate At Complete | BAC / CPI
+IEAC1 (independent EAC1) | (AC + (BAC-EV)) / CPI
+IEAC2 (independent EAC1) | (AC + (BAC-EV)) / (CPI * SPI)
+Estimate To Complete | EAC - AC
+To Complete Project Index | (BAC - EV) / (BAC - AC)
 
 
 ## ProjectAble General Notes
