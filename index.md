@@ -16,10 +16,16 @@
 ### Completing a project
 A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
 
-## Earned Value
+## Use of Earned Value (EVA) techniques
+**ProjectAble** uses the earned value calulation methods published in the **Project Management Book of Knowledge (PMBoK)** [PMBOK / EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001).
+
+Calculation | Descriptive Method
+------------|-------------------
+Planned Value (BCWS) | Percent Complete / * Budget At Complete (BAC - the original project budget)
+Earned Value (BCWP) | Actual Percent Complete * BAC
 
 
-### ProjectAble General Notes
+## ProjectAble General Notes
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
