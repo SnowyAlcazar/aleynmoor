@@ -8,13 +8,20 @@
 ProjectAble uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
 
 ### Budget Distribution
-ProjectAble uses the reporting frequency, start and end dates, and the selected budget distribution curve to spread the project budget accordingly. ProjectAble does this by dividing the duration into quarters and applying rates to each reporting period within each quarter in order to get the right distribution.
+ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
+1. Flat - Distributes the budget evenly across the reporting periods
+2. Front - Loads the majority of spend at the beginning of the project
+3. Normal - Loads the majority of spend in the middle of the project
+4. Back - Loads the majority of spend towards the end of the project
+5. Manual - Enables the user to create per reporting period budgets manually according to their planning
+
+ProjectAble distributes the automated budget spreads by dividing the duration into quarters and applying a rate to each reporting period within each quarter in order to profile distribution as smoothly as possible. Setting budgets manually provides greater control over budget distribution.
 
 ### Treatment Of Time
-ProjectAble uses time only to calculate the project duration and number of reporting periods. Each time you add a new progress update, ProjectAble calculates the percentage complete and spend for the reporting period. The reporting period is important but ProjectAble doesn't use the current date and time in it's calcultations. When you add the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values. Setting the percent complete to less than 100% will allow the project to continue but in these circumstances the calculations may behave unexpectedly.
+ProjectAble uses time only to calculate the project duration and number of reporting periods when a project is created. Each time a new progress update is added, ProjectAble calculates the budget percentage complete and spend for the reporting period (or uses the manual values provided). The reporting period is important but ProjectAble does not use specific date and time values in these calculations. With the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values but please note, setting the percent complete to less than 100% will allow the project to continue, however, in these circumstances the calculations may behave unexpectedly.
 
 ### Completing a project
-A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
+A project is set to complete automatically with the final reporting period or a project can be manually marked complete in \'Project Settings\'. by clicking the button on the Project Details screen.
 
 ## Use of Earned Value (EVA) techniques
 ProjectAble uses the earned value calulations discussed widely on the web and published in the **Project Management Book of Knowledge (PMBoK)** [PMI EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001). In addition, ProjectAble makes use of two additional Estimate AT Complete methods - [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/) which provide further context around the likely outturn of the project.
