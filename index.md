@@ -1,8 +1,8 @@
 <img style="float: right;" src="img/1024.png" height="150px" width="150px">
-
 # Welcome to ProjectAble Home Page 
 
 > A Helpful Status Reporting and Forecasting App for iPhone
+<end style="float: both;">
 
 ## What is ProjectAble?
 **ProjectAble** uses a traditional project management technique called Earned Value Analysis to forecast the outcome of the project accurately and reliably.
@@ -15,10 +15,13 @@
 
 ### Completing a project
 A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
- 
-### General Notes
-- **ProjectAble** _is_ a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
-- **ProjectAble** _is not_ intended to replace good planning,  estimation, monitoring or control processes. Other tools are available for those purposes.
+
+## Earned Value
+
+
+### ProjectAble General Notes
+- ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
+- ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
