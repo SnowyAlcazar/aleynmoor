@@ -19,19 +19,19 @@ A project is completed when the percent complete is set to 100% either with the 
 ## Use of Earned Value (EVA) techniques
 **ProjectAble** uses the earned value calulation methods published in the **Project Management Book of Knowledge (PMBoK)** [PMBOK / EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001).
 
-Calculation | Descriptive Method
-------------|-------------------
-Planned Value (BCWS) | Percent Complete * Budget At Complete (original project budget)
-Earned Value (BCWP) | Actual Percent Complete * BAC
-Schedule Variance | EV - PV
-Schedule Performance Index | EV / PV
-Cost Variance | EV - AC (Actual cost to date)
-Cost Performance Index | EV / AC
-Estimate At Complete | BAC / CPI
-IEAC1 (independent EAC1) | (AC + (BAC-EV)) / CPI
-IEAC2 (independent EAC1) | (AC + (BAC-EV)) / (CPI * SPI)
-Estimate To Complete | EAC - AC
-To Complete Project Index | (BAC - EV) / (BAC - AC)
+Calculation | Method | Descriptive Method
+------------|--------|-------------------
+Planned Value (BCWS) | Planned PComp * BAC | Planned Percent Complete * Budget At Complete (original project budget)
+Earned Value (BCWP) | PComp * BAC | Actual Percent Complete * BAC
+Schedule Variance | EV - PV | Earned Value - Planned Value
+Schedule Performance Index | EV / PV | Earned Value / Planned Value
+Cost Variance | EV - AC | Earned Value - Actual Cost
+Cost Performance Index | EV / AC | Earned Value / Actual Cost
+Estimate At Complete | BAC / CPI | Project Budget / Cost Performance Index
+IEAC1 (independent EAC1) | (AC + (BAC-EV)) / CPI | Actual Cost + (Budget Cost - Earned Value) / Cost Performance Index
+IEAC2 (independent EAC1) | (AC + (BAC-EV)) / (CPI * SPI) | Actual Cost + (Budget Cost - Earned Value) / (Cost Performance Index * Schedule Performance Index)
+Estimate To Complete | EAC - AC | Estimate At Complete - Actual Cost (to date)
+To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Value) / (Budget Cost - Actual Cost)
 
 
 ## ProjectAble General Notes
