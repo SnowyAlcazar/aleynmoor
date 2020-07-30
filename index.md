@@ -13,6 +13,13 @@ ProjectAble uses the reporting frequency, start and end dates, and the selected 
 ### Treatment Of Time
 ProjectAble uses time only to calculate the project duration and number of reporting periods. Each time you add a new progress update, ProjectAble calculates the percentage complete and spend for the reporting period. The reporting period is important but ProjectAble doesn't use the current date and time in it's calcultations. When you add the final progress update, ProjectAble will set the percent complete to 100%. As with all progress updates, you can overwrite the pre-calculated values. Setting the percent complete to less than 100% will allow the project to continue but in these circumstances the calculations may behave unexpectedly.
 
+### Completing a project
+A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
+ 
+### General Notes
+> ProjectAble is a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
+> ProjectAble is not intended to replace good planning,  estimation, monitoring or control processes. Other tools are available for those purposes.
+
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
