@@ -9,11 +9,11 @@ ProjectAble uses a traditional project management technique called Earned Value 
 
 ### Budget Distribution
 ProjectAble uses the reporting frequency, project start and project end dates, and selected budget distribution curve input by the user when setting up the project, to spread the project budget according to expectated project spend and schedule. ProjectAble provides 5 methods for distributing budgets:
-1. Flat - Distributes the budget evenly across the reporting periods
-2. Front - Loads the majority of spend at the beginning of the project
-3. Normal - Loads the majority of spend in the middle of the project
-4. Back - Loads the majority of spend towards the end of the project
-5. Manual - Enables the user to create per reporting period budgets manually according to their planning
+1. Flat - distributes the budget evenly across the reporting periods
+2. Front - loads the majority of spend at the beginning of the project
+3. Normal - loads the majority of spend in the middle of the project
+4. Back - loads the majority of spend towards the end of the project
+5. Manual - enables the user to create per reporting period budgets manually according to their planning
 
 ProjectAble distributes the automated budget spreads by dividing the duration into quarters and applying a rate to each reporting period within each quarter in order to profile distribution as smoothly as possible. Setting budgets manually provides greater control over budget distribution.
 
