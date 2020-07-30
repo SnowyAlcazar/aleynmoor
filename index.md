@@ -17,8 +17,8 @@ ProjectAble uses time only to calculate the project duration and number of repor
 A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
  
 ### General Notes
-- ProjectAble is a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
-- ProjectAble is not intended to replace good planning,  estimation, monitoring or control processes. Other tools are available for those purposes.
+- **ProjectAble** _is_ a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
+- **ProjectAble** _is not_ intended to replace good planning,  estimation, monitoring or control processes. Other tools are available for those purposes.
 
 
 You can use the [editor on GitHub](https://github.com/SnowyAlcazar/aleynmoor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
