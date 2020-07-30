@@ -17,7 +17,7 @@ ProjectAble uses time only to calculate the project duration and number of repor
 A project is completed when the percent complete is set to 100% either with the final reporting period or by clicking the button on the Project Details screen.
 
 ## Use of Earned Value (EVA) techniques
-**ProjectAble** uses the earned value calulation methods published in the **Project Management Book of Knowledge (PMBoK)** [PMBOK / EVA](https://www.pmi.org/learning/library/make-earned-value-work-project-6001).
+ProjectAble uses the earned value calulations discussed widely on the web abd published in the **Project Management Book of Knowledge (PMBoK)** [PMBOK / EVA] (https://www.pmi.org/learning/library/make-earned-value-work-project-6001).In addition, ProjectAble makes use of two additional Estimate AT Complete methods - IEAC1 and IEAC2 which give further context to the estimate at complete calculation. You can see Mick Higgins LinkedIn article here [IEAC1 & IEAC2](https://www.linkedin.com/pulse/earned-value-management-ieac1-ieac2-mick-higgins/).
 
 Calculation | Method | Descriptive Method
 ------------|--------|-------------------
@@ -29,14 +29,13 @@ Cost Variance | EV - AC | Earned Value - Actual Cost
 Cost Performance Index | EV / AC | Earned Value / Actual Cost
 Estimate At Complete | BAC / CPI | Project Budget / Cost Performance Index
 IEAC1 (independent EAC1) | (AC + (BAC-EV)) / CPI | Actual Cost + (Budget Cost - Earned Value) / Cost Performance Index
-IEAC2 (independent EAC1) | (AC + (BAC-EV)) / (CPI * SPI) | Actual Cost + (Budget Cost - Earned Value) / (Cost Performance Index * Schedule Performance Index)
+IEAC2 (independent EAC2) | (AC + (BAC-EV)) / (CPI * SPI) | Actual Cost + (Budget Cost - Earned Value) / (Cost Performance Index * Schedule Performance Index)
 Estimate To Complete | EAC - AC | Estimate At Complete - Actual Cost (to date)
 To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Value) / (Budget Cost - Actual Cost)
 
-
-## ProjectAble General Notes
+## Notes
+- 
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
-
-
+<img style=src="img/1024.png" height="150px" width="150px">
