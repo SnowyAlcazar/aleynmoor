@@ -45,7 +45,7 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
 ### Contact
-email | ProjectAble@aleynmoor.co
+email | <ProjectAble@aleynmoor.co>
 
 
 <img  style="float: center;" src="img/1024.png" height="150px" width="150px">
