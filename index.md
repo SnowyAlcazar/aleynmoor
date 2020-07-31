@@ -41,7 +41,6 @@ Estimate To Complete | EAC - AC | Estimate At Complete - Actual Cost (to date)
 To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Value) / (Budget Cost - Actual Cost)
 
 ## Notes
-- 
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
