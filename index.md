@@ -44,8 +44,8 @@ To Complete Project Index | (BAC - EV) / (BAC - AC) | (Budget Cost - Earned Valu
 - ProjectAble **_is_** a helpful tool to enable project professionals to track the status and forecast of a project quickly, reliably and accurately
 - ProjectAble **_is not_** intended to replace good planning, estimation, monitoring or control processes. Other tools are available for those purposes.
 
-### Contact Aleynmoor
-eMail : helpdesk@aleynmoor.co
+### Contact us
+helpdesk@aleynmoor.co
 
 
 <img src="img/1024.png" height="150px" width="150px">
